@@ -1,0 +1,6 @@
+ally_state: health, cooldown, x, y
+
+enemy_state: health, x, y
+
+last_action: 11*17
+
